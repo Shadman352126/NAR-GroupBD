@@ -7,7 +7,7 @@ const Nav = () => {
         <img
           src="https://i.ibb.co/MMSnMbF/NAR-LOGO.jpg"
           alt=""
-          className="w-24 h-24 rounded-lg"
+          className="w-24 h-24 rounded-full"
         />
       </div>
       <div className="flex-none">
